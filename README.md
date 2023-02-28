@@ -31,7 +31,7 @@
 | 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link]() | 1 | |
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
 | 30 |	PRATEEK N (RA2011003010491) | [Link]() | 1 | |
-| 31 |	AYUSH ABHIGYAN (RA2011003010493) | [Link]() | 1 | |
+| 31 |	AYUSH ABHIGYAN (RA2011003010493) | [Link](https://alpacaman14.github.io/18CSE301J_RA2011003010493/) | 1 | :white_check_mark: |
 | 32 |	AFRAZ TANVIR (RA2011003010499) | [Link]() | 1 | |
 | 33 |	SOHAM GHOSH (RA2011003010504) | [Link]() | 1 | |
 | 34 |	SUYASH JOSHI (RA2011003010508) | [Link]() | 1 | |
@@ -57,7 +57,7 @@
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
-| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
+| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link]() | 1 | |
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
